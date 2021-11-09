@@ -26,9 +26,9 @@ Project created by <a href="https://github.com/GingerBreadSketchy"> Ginger</a> T
     <img src="https://img.shields.io/github/repo-size/GingerBreadSketchy/Sketchy?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/GingerBreadSketchy/followers"><img title="Followers" src="https://img.shields.io/github/followers/Dark-Knight-Hiruwa?color=blue&style=flat-square"></a>
-<a href="https://github.com/GingerBreadSketchy/Sketchy/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GingerBreadSketchy/Sketchy?color=blue&style=flat-square"></a>
-<a href="https://github.com/GingerBreadSketchy/Sketchy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GingerBreadSketchy/Sketchy?color=blue&style=flat-square"></a>
-<a href="https://github.com/GingerBreadSketchy/Sketchy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/GingerBreadSketchy/Sketchy?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Emmanuelxyan/shadow/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GingerBreadSketchy/Sketchy?color=blue&style=flat-square"></a>
+<a href="https://github.com/Emmanuelxyan/shadow/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GingerBreadSketchy/Sketchy?color=blue&style=flat-square"></a>
+<a href="https://github.com/Emmanuelxyan/shadow/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/GingerBreadSketchy/Sketchy?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED-YES-yellow.svg" src="https://img.shields.io/badge/UNMAINTENED-NO-blue.svg"</a>
 </p>
   
@@ -40,7 +40,7 @@ Chat Me on Whatsapp Now👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://wa.me/+254792893310)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GingerBreadSketchy&repo=Sketchy&theme=nightowl)](https://github.com/GingerBreadSketchy/Sketchy)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GingerBreadSketchy&repo=Sketchy&theme=nightowl)](https://github.com/Emmanuelxyan/shadow)
   </div>
     
 ## Setup
@@ -50,7 +50,7 @@ Chat Me on Whatsapp Now👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TRexWa/T-REX-QR-SESSION)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/GingerBreadSketchy/Sketchy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/Emmanuelxyan/shadow)
      </div>
 <br>
 <br > 
