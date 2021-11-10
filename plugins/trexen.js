@@ -9,7 +9,7 @@ const axios = require('axios');
 const Config = require('../config');
 const alive = fs.readFileSync('./Voice/alive.mp3')
 
-const Ln = "  *SKETCHY MENU* "
+const Ln = "  *sʜᴀᴅᴏᴡʙᴏᴛ MENU* "
 
 if (Config.LANG == 'EN') {
 
@@ -28,7 +28,7 @@ if (Config.LANG == 'EN') {
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  `╔═══════════════════════╗
 
-           ❰🐼🧭Sketchy🧭🐼❱
+           ❰🐼🧭sʜᴀᴅᴏᴡʙᴏᴛ🧭🐼❱
 
 ═════════════════════════
 
@@ -40,7 +40,7 @@ if (Config.LANG == 'EN') {
 
 *➢ Description:* °To get the admin command list°
 
-*🎈 Command:* °.Sketchy°
+*🎈 Command:* °.sʜᴀᴅᴏᴡʙᴏᴛ°
 
 *➢ Description:*°all commands°
 
@@ -58,7 +58,7 @@ if (Config.LANG == 'EN') {
  
 *🎈 Command* °.rlpack°
 
-*➢ Description:* °SKETCHY LOGO COLLECTION 01°
+*➢ Description:* °sʜᴀᴅᴏᴡʙᴏᴛ LOGO COLLECTION 01°
 
 *🎈 Command:* °.lovepack°
 
@@ -136,7 +136,7 @@ Example : .covid Sri Lanka°
 
 *🎈 Command:* °.movie°
 
-*➢ Description:* °Movies °Sketchy Movie Searches.°
+*➢ Description:* °Movies °sʜᴀᴅᴏᴡʙᴏᴛ Movie Searches.°
 
 *🎈 Command:* °.notes°
 
@@ -176,11 +176,11 @@ Example : .covid Sri Lanka°
 
 *🎈 Command:* °.insta°
 
-*➢ Description:* °🎈➢ ❰🐼🧭Sketchy🧭🐼❱ Download instagram videos.°
+*➢ Description:* °🎈➢ ❰🐼🧭sʜᴀᴅᴏᴡʙᴏᴛ🧭🐼❱ Download instagram videos.°
 
 *🎈 Command:* °.fb°
 
-*➢ Description:* °🎈➢ ❰🐼🧭Sketchy🧭🐼❱ Download Facebook videos.°
+*➢ Description:* °🎈➢ ❰🐼🧭sʜᴀᴅᴏᴡʙᴏᴛ🧭🐼❱ Download Facebook videos.°
 
 *🎈 Command:* °.trt°
 
@@ -335,8 +335,8 @@ Example : .covid Sri Lanka°
 *🎈 Command:* °.xxx°
 
 *➢ Description:* °xnxx .Download sex videos on xnxx site°
-*❰🐼🧭🇰🇪Sketchy Was Made in kenya🇰🇪🧭🐼❱*
-*➢Created By ♐ 👿GingerBreadSketchy*
+*❰🐼🧭🇰🇪sʜᴀᴅᴏᴡʙᴏᴛ Was Made in kenya🇰🇪🧭🐼❱*
+*➢Created By ♐ 👿shadowalkersʜᴀᴅᴏᴡʙᴏᴛ*
 ` ,quoted: message.data})
 
     }));
@@ -361,7 +361,7 @@ Asena.applyCMD({ pattern: 'jsssnssnsnsn', fromMe: true, dontAddCommandList: true
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: `╔═══════════════════════╗
 
-           ❰🐼🧭Sketchy🧭🐼❱
+           ❰🐼🧭sʜᴀᴅᴏᴡʙᴏᴛ🧭🐼❱
 
 ═════════════════════════
 
@@ -373,7 +373,7 @@ Asena.applyCMD({ pattern: 'jsssnssnsnsn', fromMe: true, dontAddCommandList: true
 
 *➢ Description:* °To get the admin command list°
 
-*🎈 Command:* °.sketchy°
+*🎈 Command:* °.sʜᴀᴅᴏᴡʙᴏᴛ°
 
 *➢ Description:*°all commands°
 
@@ -391,7 +391,7 @@ Asena.applyCMD({ pattern: 'jsssnssnsnsn', fromMe: true, dontAddCommandList: true
 
 *🎈 Command* °.rlpack°
 
-*➢ Description:* °SKETCHY LOGO COLLECTION 01°
+*➢ Description:* °sʜᴀᴅᴏᴡʙᴏᴛ LOGO COLLECTION 01°
 
 *🎈 Command:* °.lovepack°
 
@@ -469,7 +469,7 @@ Example : .covid Sri Lanka°
 
 *🎈 Command:* °.movie°
 
-*➢ Description:* °Movies °Sketchy Movie Searches.°
+*➢ Description:* °Movies °sʜᴀᴅᴏᴡʙᴏᴛ Movie Searches.°
 
 *🎈 Command:* °.notes°
 
@@ -509,11 +509,11 @@ Example : .covid Sri Lanka°
 
 *🎈 Command:* °.insta°
 
-*➢ Description:* °🎈➢ ❰🐼🧭Sketchy🧭🐼❱ Download instagram videos.°
+*➢ Description:* °🎈➢ ❰🐼🧭sʜᴀᴅᴏᴡʙᴏᴛ🧭🐼❱ Download instagram videos.°
 
 *🎈 Command:* °.fb°
 
-*➢ Description:* °🎈➢ ❰🐼🧭Sketchy🧭🐼❱ Download Facebook videos.°
+*➢ Description:* °🎈➢ ❰🐼🧭sʜᴀᴅᴏᴡʙᴏᴛ🧭🐼❱ Download Facebook videos.°
 
 *🎈 Command:* °.trt°
 
@@ -668,8 +668,8 @@ Example : .covid Sri Lanka°
 *🎈 Command:* °.xxx°
 
 *➢ Description:* °xnxx ..Download sex videos on xnxx site°
-*❰🐼🧭🇰🇪Sketchy Was Made in kenya🇰🇪🧭🐼❱*
-*➢Created By ♐ 👿GingerBreadSketchy*
+*❰🐼🧭🇰🇪sʜᴀᴅᴏᴡʙᴏᴛ Was Made in kenya🇰🇪🧭🐼❱*
+*➢Created By ♐ 👿shadowalkersʜᴀᴅᴏᴡʙᴏᴛ*
 ` })
 
     
